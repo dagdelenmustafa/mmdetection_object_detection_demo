@@ -1,0 +1,42 @@
+<annotation>
+	<filename>000534.jpg</filename>
+	<folder>VOCCOCO</folder>
+	<segmented>0</segmented>
+	<owner>
+		<name>unknown</name>
+	</owner>
+	<source>
+		<database>The COCO 2017 database</database>
+		<annotation>COCO 2017</annotation>
+		<image>unknown</image>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>skirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31.0</xmin>
+			<ymin>256.0</ymin>
+			<xmax>498.0</xmax>
+			<ymax>599.0</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>short_sleeved_shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198.0</xmin>
+			<ymin>109.0</ymin>
+			<xmax>622.0</xmax>
+			<ymax>299.0</ymax>
+		</bndbox>
+	</object>
+</annotation>
